@@ -4,7 +4,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://velvety-taffy-c9f6a3.netlify.app/
 
 ### Screenshot
 
